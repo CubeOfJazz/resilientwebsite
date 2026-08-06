@@ -1,0 +1,27 @@
+b {
+    color: crimson;
+    font-size: 34px;
+    position: fixed;
+    left: 124px;
+}
+
+.The {
+    background-size: 30%;
+    margin-left: 70px;
+}
+
+#assignment-var {
+    color: aliceblue;
+    position: fixed;
+    left: 164px;
+}
+
+#performance-var {
+    color: aliceblue;
+    position: fixed;
+    left: 164px;
+}
+
+#perf {
+    position: fixed;
+}
