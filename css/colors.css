@@ -21,13 +21,13 @@ h2 {
 .Headers {
     color: crimson;
     font-size: 34px;
-    position: fixed;
+    position: relative;
     left: 124px;
 }
 
 #announcement-var {
     color: aliceblue;
-    position: fixed;
+    position: relative;
     left: 164px; /* orig 164 px */
 }
 
